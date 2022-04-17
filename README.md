@@ -7,7 +7,7 @@ https://data.world/makeovermonday/2019w27/workspace/file?filename=game-of-thones
 
 El proposito del ejercicio es practicar la visualización de datos a criterio del estudiante sin mayor exigencia que utilizar la creatividad y por supuesto las habilidades adquiridas a lo largo del proceso de apredizaje de Data Science.
 
-Para una correcta ejecución del código,  ==asegurese de tener isntalada la última versión de matplotlib==, incluso de ser necesario desisntalando y reinstalandola de Google Colab, pues esta versón podría estar desactualizada.
+Para una correcta ejecución del código,  ==asegurese de tener isntalada la última versión de matplotlib== , incluso de ser necesario desisntalando y reinstalandola de Google Colab, pues esta versón podría estar desactualizada.
 
 Ejecute
 ```
